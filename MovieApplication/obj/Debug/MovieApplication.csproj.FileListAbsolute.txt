@@ -1,0 +1,12 @@
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.csproj.AssemblyReference.cache
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.Properties.Resources.resources
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.csproj.GenerateResource.cache
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.csproj.CoreCompileInputs.cache
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.Form1.resources
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\bin\Debug\MovieApplication.exe.config
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\bin\Debug\MovieApplication.exe
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\bin\Debug\MovieApplication.pdb
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.exe
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.pdb
+C:\Users\emreo\Desktop\.NetProject\MovieApplication\MovieApplication\obj\Debug\MovieApplication.Form2.resources
